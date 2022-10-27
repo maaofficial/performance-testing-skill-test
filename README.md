@@ -8,7 +8,7 @@
 1. Register to get the API token key -  [https://www.weatherbit.io/account/create](https://www.weatherbit.io/account/create)
 2. Clone the repo
    ```sh
-   git clone https://github.com/auliabalqis16/performance-test-jmeter.git
+   git clone https://github.com/maaofficial/performance-testing-skill-test.git
    ```
 3. go to {your directory}/apache-jmeter-5.5/bin
 4. open jmeter GUI
